@@ -2,7 +2,7 @@
 
 ### Personal information
 
-- github account: dulaevol
+- github account: @dulaevol
 - Email: raikihiromi1@gmail.com
 - Arweave Address: TsTc-sjgiErrfRJiBbqsOfP8CpSVzqbx92x8gIbU6x0
 - ETH Address: 0x99110691101DA801566765EaEcd558E11676793c 
